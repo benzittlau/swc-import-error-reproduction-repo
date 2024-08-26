@@ -1,0 +1,11 @@
+{
+  "name": "swc-import-bug",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Ben Zittlau <ben@zittlau.ca>",
+  "license": "MIT",
+  "workspaces": [
+    "package"
+  ],
+  "dependencies": {}
+}

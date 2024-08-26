@@ -1,0 +1,13 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@swc-node/register": "^1.10.0",
+    "@swc/core": "^1.7.18",
+    "bignumber.js": "^9.1.2",
+    "typescript": "^5.5.4",
+    "ts-node": "^10.4.0"
+  }
+}
