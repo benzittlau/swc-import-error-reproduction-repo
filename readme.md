@@ -62,7 +62,7 @@ node --loader ts-node/esm --no-warnings=ExperimentalWarning src/index.ts
 
 ### Renaming the package
 
-If I rename the packages folder to "bignumber" and modify the import to match, the script runs successfully.
+If I rename the imported packages folder to "bignumber" and modify the import to match, the script runs successfully.
 
 ```
 node --loader @swc-node/register/esm --no-warnings=ExperimentalWarning src/index.ts
